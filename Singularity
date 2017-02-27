@@ -1,4 +1,4 @@
-# Run MRIQC through singularity
+# Run MRIQC inside singularity image
 BootStrap: docker
 From: poldracklab/neuroimaging-core:base-0.0.2
 
